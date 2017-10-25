@@ -19,7 +19,6 @@ names(wine) <- c('alcohol', 'malic_acid', 'ash', 'alcalinity_of_ash',
 iris <- read.csv("iris", header = FALSE)
 glimpse(iris)
 names(iris) <- c('sepal_length', 'sepla_width', 'petal_length', 'petal_width')
-# this is not your position. I want to be a great person. longlong exist, stongly exist person.
 
 # 7.2 analysis for every data
 glimpse(wine)
